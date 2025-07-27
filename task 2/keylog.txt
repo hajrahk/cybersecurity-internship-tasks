@@ -1,0 +1,1 @@
+[Key.esc]h[Key.enter]gg[Key.enter]kk[Key.enter]bkn[Key.esc]h[Key.esc]hfj123[Key.esc]
